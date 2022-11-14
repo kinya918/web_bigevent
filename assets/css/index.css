@@ -108,3 +108,7 @@ margin-right: 10px;
   height: 40px;
 
 }
+
+.layui-nav-item a {
+  font-size: 12px;
+}
